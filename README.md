@@ -82,6 +82,31 @@ Krug, S., 2014. Don't Make Me Think: A Common-Sense Approach to Web Usability. B
 New Riders. 
 WordPress.org, 2024. WordPress – Open-Source Publishing Platform. [online] Available at: 
 <https://wordpress.org >[Accessed 10 March 2026]. 
+
+## Changelog
+
+### Part 2 Updates
+
+- Added external CSS stylesheet
+- Linked all HTML pages to style.css
+- Added responsive design using media queries
+- Added Flexbox navigation layout
+- Improved typography and colour palette
+- Added hover effects to navigation links
+- Styled forms, footer, and images
+- Improved mobile responsiveness
+
+- The website was tested on multiple screen sizes using browser developer tools.
+
+Testing included:
+
+* Desktop view
+* Tablet view
+* Mobile view
+
+Responsive design techniques such as media queries, responsive images, flexible layouts, and percentage widths were used to ensure the website adapts correctly to different devices and screen sizes.
+
+  References (Harvard Style)
 Inso Aluminium Windows and Doors, 2026. © 2026 Inso Aluminium Windows and Doors. All 
 Rights Reserved. [online] Available at: [Sitemap] | Web Design by Digi Leads. 
 ChatGPT (2026) Response to prompt about colour scheme, layout. Available at: 
