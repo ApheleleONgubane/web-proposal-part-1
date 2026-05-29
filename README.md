@@ -95,7 +95,17 @@ WordPress.org, 2024. WordPress – Open-Source Publishing Platform. [online] Ava
 - Added hover effects to navigation links
 - Styled forms, footer, and images
 - Improved mobile responsiveness
-- 
+
+- The website was tested on multiple screen sizes using browser developer tools.
+
+Testing included:
+
+* Desktop view
+* Tablet view
+* Mobile view
+
+Responsive design techniques such as media queries, responsive images, flexible layouts, and percentage widths were used to ensure the website adapts correctly to different devices and screen sizes.
+
   References (Harvard Style)
 Inso Aluminium Windows and Doors, 2026. © 2026 Inso Aluminium Windows and Doors. All 
 Rights Reserved. [online] Available at: [Sitemap] | Web Design by Digi Leads. 
