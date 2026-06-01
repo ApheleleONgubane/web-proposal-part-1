@@ -165,5 +165,5 @@ W3Schools. (2026) CSS Tutorial. Available at: <https://www.w3schools.com/css/> (
 GeeksforGeeks. (2026) CSS Basics and Responsive Design. Available at: <https://www.geeksforgeeks.org/> (Accessed: April 2026).
 
 GitHub Repository
-
+<https://github.com/ApheleleONgubane/web-proposal-part-1/blob/main/README.md>
 
