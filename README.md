@@ -83,47 +83,87 @@ New Riders.
 WordPress.org, 2024. WordPress – Open-Source Publishing Platform. [online] Available at: 
 <https://wordpress.org >[Accessed 10 March 2026]. 
 
-## Changelog
+ Part 2 Updates
 
-### Part 2 Updates
+ CSS Styling Enhancements
 
-- Added external CSS stylesheet
-- Linked all HTML pages to style.css
-- Added responsive design using media queries
-- Added Flexbox navigation layout
-- Improved typography and colour palette
-- Added hover effects to navigation links
-- Styled forms, footer, and images
-- Improved mobile responsiveness
+The website was improved by creating an external CSS stylesheet (style.css) and linking it to all HTML pages. The styling provides a consistent appearance across the website and improves user experience.
 
-- The website was tested on multiple screen sizes using browser developer tools.
+ Improvements Made
 
-Testing included:
+* Added external CSS stylesheet.
+* Linked all HTML pages to style.css.
+* Added a professional colour palette based on charcoal and aluminium colours.
+* Styled the navigation menu.
+* Added hover effects to navigation links and buttons.
+* Styled forms and input fields.
+* Styled images with borders, rounded corners, and shadows.
+* Added content containers using div classes.
+* Styled the footer section.
+* Added responsive layouts using Flexbox.
+* Added media queries for mobile and tablet devices.
 
-* Desktop view
-* Tablet view
-* Mobile view
-  
-desktop.png
-tablet.png
-mobile.png
+ Responsive Design Testing
 
-The website was tested on multiple screen sizes using browser developer tools.
+ Desktop View
 
-Testing included:
+<img width="1920" height="1080" alt="desktop" src="https://github.com/user-attachments/assets/04bb4e89-35b3-49c6-af1d-30611c4d2928" />
 
-* Desktop view
-* Tablet view
-* Mobile view
+The website was tested on a desktop screen to ensure that the navigation menu, images, content, and forms display correctly.
 
-Responsive design techniques such as media queries, responsive images, flexible layouts, and percentage widths were used to ensure the website adapts correctly to different devices and screen sizes.
+Tablet View
+
+<img width="1920" height="1080" alt="tablet" src="https://github.com/user-attachments/assets/b200c7df-3444-4527-a104-918414055688" />
 
 
-Responsive design techniques such as media queries, responsive images, flexible layouts, and percentage widths were used to ensure the website adapts correctly to different devices and screen sizes.
+The website was tested on a tablet-sized screen to verify responsive layouts, image resizing, and content alignment.
 
-  References (Harvard Style)
-Inso Aluminium Windows and Doors, 2026. © 2026 Inso Aluminium Windows and Doors. All 
-Rights Reserved. [online] Available at: [Sitemap] | Web Design by Digi Leads. 
-ChatGPT (2026) Response to prompt about colour scheme, layout. Available at: 
-<https://chat.openai.com/ >(Accessed: 10 March 2026).
+Mobile View
+<img width="1920" height="1080" alt="Mobile" src="https://github.com/user-attachments/assets/e8e1ee4e-ee6c-490a-ae47-84c2a05bd9c6" />
+
+
+
+The website was tested on a mobile device to ensure readability, responsive images, form usability, and navigation accessibility.
+
+Testing Summary
+
+The website was tested using browser developer tools. Responsive design techniques such as media queries, flexible layouts, responsive images, and percentage-based widths were used to ensure compatibility across different screen sizes.
+
+ Changelog – Part 2
+
+ Added
+
+* External CSS file.
+* Responsive design using media queries.
+* Flexbox layout.
+* Navigation styling.
+* Form styling.
+* Footer styling.
+* Hover effects.
+
+ Updated
+
+* Linked all pages to the external stylesheet.
+* Improved typography and spacing.
+* Improved image presentation.
+* Improved website responsiveness.
+
+ Fixed
+
+* Navigation consistency across pages.
+* Mobile layout issues.
+* Image sizing issues.
+
+ Updated References (Harvard Style)
+
+OpenAI. (2026) ChatGPT. Available at: <https://chat.openai.com/> (Accessed: April 2026).
+
+MDN Web Docs. (2026) CSS Documentation. Available at: <https://developer.mozilla.org/> (Accessed: April 2026).
+
+W3Schools. (2026) CSS Tutorial. Available at: <https://www.w3schools.com/css/> (Accessed: April 2026).
+
+GeeksforGeeks. (2026) CSS Basics and Responsive Design. Available at: <https://www.geeksforgeeks.org/> (Accessed: April 2026).
+
+GitHub Repository
+
 
