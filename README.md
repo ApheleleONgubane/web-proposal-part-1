@@ -103,6 +103,21 @@ Testing included:
 * Desktop view
 * Tablet view
 * Mobile view
+  
+desktop.png
+tablet.png
+mobile.png
+
+The website was tested on multiple screen sizes using browser developer tools.
+
+Testing included:
+
+* Desktop view
+* Tablet view
+* Mobile view
+
+Responsive design techniques such as media queries, responsive images, flexible layouts, and percentage widths were used to ensure the website adapts correctly to different devices and screen sizes.
+
 
 Responsive design techniques such as media queries, responsive images, flexible layouts, and percentage widths were used to ensure the website adapts correctly to different devices and screen sizes.
 
