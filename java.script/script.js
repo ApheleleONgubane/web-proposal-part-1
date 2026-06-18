@@ -25,7 +25,25 @@ behavior:"smooth"
 });
 
 }
+// SHOW BUTTON WHEN SCROLLING
 
+window.onscroll=function(){
+
+if(document.body.scrollTop>200 ||
+
+document.documentElement.scrollTop>200){
+
+topBtn.style.display="block";
+
+}
+
+else{
+
+topBtn.style.display="none";
+
+}
+
+};
 
 
 // QUOTE FORM 
