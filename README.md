@@ -167,3 +167,48 @@ GeeksforGeeks. (2026) CSS Basics and Responsive Design. Available at: <https://w
 GitHub Repository
 <https://github.com/ApheleleONgubane/web-proposal-part-1/blob/main/README.md>
 
+Part 3 Updates
+Overview
+
+Part 3 focused on improving the website by adding JavaScript functionality, Search Engine Optimisation (SEO), and interactive features to improve the overall user experience and website performance.
+
+Improvements Made
+-Added an external JavaScript file (script.js) and linked it to all HTML pages.
+-Added a welcome alert message when users open the website.
+-Added a Back to Top button that appears when scrolling down the page.
+-Added a search bar on the Products page to allow users to search for products.
+-Added image lightbox functionality to enlarge images when clicked.
+-Added image hover effects to improve interactivity.
+-Added JavaScript alerts for the Contact Us and Request Quote forms.
+-Added SEO meta tags to all HTML pages.
+-Created a robots.txt file.
+-Created a sitemap.xml file
+
+Changelog – Part 3
+Added
+JavaScript functionality
+Product search feature
+Lightbox image functionality
+Back to Top button
+SEO meta tags
+robots.txt
+sitemap.xml
+Updated
+Website interactivity
+User experience
+Search engine optimisation
+
+Fixed
+-Improved responsiveness across different devices
+-Improved image interactions
+-Improved navigation usability
+
+Updated References (Harvard Style)
+
+OpenAI (2026) ChatGPT. Available at: <https://chat.openai.com/> (Accessed: April 2026).
+
+MDN Web Docs (2026) JavaScript Documentation. Available at:< https://developer.mozilla.org/> (Accessed: April 2026).
+
+W3Schools (2026) JavaScript Tutorial. Available at: <https://www.w3schools.com/js/> (Accessed: April 2026).
+
+Google Search Central (2026) robots.txt and Sitemap Guidelines. Available at: <https://developers.google.com/search> (Accessed: April 2026).
