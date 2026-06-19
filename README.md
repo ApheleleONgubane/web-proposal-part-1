@@ -173,16 +173,16 @@ Overview
 Part 3 focused on improving the website by adding JavaScript functionality, Search Engine Optimisation (SEO), and interactive features to improve the overall user experience and website performance.
 
 Improvements Made
-Added an external JavaScript file (script.js) and linked it to all HTML pages.
-Added a welcome alert message when users open the website.
-Added a Back to Top button that appears when scrolling down the page.
-Added a search bar on the Products page to allow users to search for products.
-Added image lightbox functionality to enlarge images when clicked.
-Added image hover effects to improve interactivity.
-Added JavaScript alerts for the Contact Us and Request Quote forms.
-Added SEO meta tags to all HTML pages.
-Created a robots.txt file.
-Created a sitemap.xml file
+-Added an external JavaScript file (script.js) and linked it to all HTML pages.
+-Added a welcome alert message when users open the website.
+-Added a Back to Top button that appears when scrolling down the page.
+-Added a search bar on the Products page to allow users to search for products.
+-Added image lightbox functionality to enlarge images when clicked.
+-Added image hover effects to improve interactivity.
+-Added JavaScript alerts for the Contact Us and Request Quote forms.
+-Added SEO meta tags to all HTML pages.
+-Created a robots.txt file.
+-Created a sitemap.xml file
 
 Changelog – Part 3
 Added
@@ -199,9 +199,9 @@ User experience
 Search engine optimisation
 
 Fixed
-Improved responsiveness across different devices
-Improved image interactions
-Improved navigation usability
+-Improved responsiveness across different devices
+-Improved image interactions
+-Improved navigation usability
 
 Updated References (Harvard Style)
 
