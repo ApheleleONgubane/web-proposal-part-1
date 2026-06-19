@@ -52,7 +52,7 @@
 
 <!-- Service 1 -->
 <h2>Design & Consultation</h2>
-<img src="images/sliding door.jpg" alt="Design Consultation" width="300">
+<img src="images/sliding door.jpg" alt="Design Consultation" width="300" onclick="openImage(this)">
 <p>
 We help you choose the best aluminium windows and doors for your space. 
 Our experts provide advice on style, size, and functionality to match your needs.
@@ -60,7 +60,7 @@ Our experts provide advice on style, size, and functionality to match your needs
 
 <!-- Service 2 -->
 <h2>Supply & Installation</h2>
-<img src="images/installing.jpg" alt="Installation Service" width="300">
+<img src="images/installing.jpg" alt="Installation Service" width="300" onclick="openImage(this)">
 <p>
 We supply high-quality aluminium products and handle full installation. 
 Our team ensures everything is fitted securely and professionally.
@@ -68,9 +68,9 @@ Our team ensures everything is fitted securely and professionally.
 
 <!-- Service 3 -->
 <h2>Maintenance & Repairs</h2>
-<img src="images/sliding door 2.jpg" alt="Repair Service" width="300">
-<img src="images/home image.jpg"  alt="Repair Service" width="500">
-<img src="images/Charcoal-Aluminium.jpg" alt="Repair service"width="250">
+<img src="images/sliding door 2.jpg" alt="Repair Service" width="300" onclick="openImage(this)">
+<img src="images/home image.jpg"  alt="Repair Service" width="500" onclick="openImage(this)">
+<img src="images/Charcoal-Aluminium.jpg" alt="Repair service"width="250" onclick="openImage(this)">
 <p>
 We offer maintenance and repair services to keep your aluminium doors and windows 
 in perfect condition for long-lasting performance.
@@ -86,6 +86,14 @@ in perfect condition for long-lasting performance.
     <p>Saturday: 8:00 AM - 1:00 PM</p>
     <p>Sunday: Closed</p>
 </footer>
+
+<div id="lightbox"
+class="lightbox"
+onclick="closeLightbox()">
+
+<img id="lightboxImage">
+
+</div>
 <!-- Scroll to top button -->
 <button id="topBtn">Top</button>
 
