@@ -204,6 +204,13 @@ Fixed
 -Improved navigation usability
 
 Updated References (Harvard Style)
+Deployed Website
+
+https://apheleleongubane.github.io/web-proposal-part-1/
+
+GitHub Repository
+
+https://github.com/ApheleleONgubane/web-proposal-part-1
 
 OpenAI (2026) ChatGPT. Available at: <https://chat.openai.com/> (Accessed: April 2026).
 
