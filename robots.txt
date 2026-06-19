@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: sitemap.xml
+Sitemap: https://apheleleongubane.github.io/web-proposal-part-1/
